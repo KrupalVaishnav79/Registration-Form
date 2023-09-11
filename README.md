@@ -43,6 +43,3 @@ If you would like to contribute to this project or provide feedback, please feel
 ## About Me
 
 I am a passionate web developer and I created this project as an assignment for a potential employer. If you have any questions or would like to get in touch with me, you can reach me at krupalworkwise@gmail.com.
-
-Thank you for considering my assignment!
-
