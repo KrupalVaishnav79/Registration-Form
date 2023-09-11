@@ -40,10 +40,6 @@ This is a React application that I have developed as part of an assignment for a
 
 If you would like to contribute to this project or provide feedback, please feel free to fork the repository, make changes, and submit a pull request. Your contributions and suggestions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## About Me
 
 I am a passionate web developer and I created this project as an assignment for a potential employer. If you have any questions or would like to get in touch with me, you can reach me at krupalworkwise@gmail.com.
