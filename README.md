@@ -39,7 +39,7 @@ This is a React application that I have developed as part of an assignment for a
 
 - Local Development: Open your web browser and access the application at `http://localhost:3000`.
 
-- Live Version: You can also access the live version of this project [here](https://krupalvaishnav.github.io/Registration-Form/).
+- Live Version: You can also access the live version of this project [here](https://krupalvaishnav79.github.io/Registration-Form/).
 
 ## Contribution
 
