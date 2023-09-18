@@ -34,7 +34,15 @@ This is a React application that I have developed as part of an assignment for a
    npm start
    ```
 
-4. **Access the Application**: Open your web browser and access the application at `http://localhost:3000`.
+
+4. **Access the Application**:
+
+- Local Development: Open your web browser and access the application at `http://localhost:3000`.
+
+- Live Version: You can also access the live version of this project [here](https://krupalvaishnav.github.io/Registration-Form/).
+
+## Contribution
+
 
 ## Contribution
 
